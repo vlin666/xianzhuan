@@ -1,0 +1,16 @@
+{
+    "bigeye":[
+        {"id":"66","title":"\u95f2\u8f6c\u4f18\u54c1FAQ","picture":"https:\/\/imgxz.3z.cc\/xz\/upload\/bigeye\/201801\/201801180311502722.png","link":"https:\/\/xz.3z.cc\/index.php?tp=activity\/problem&appid=0&imei=865981031959641&pt=1&sign=3dc71471ef5c9f4a1022c847d0eaedf9&t=1515375754&ver=1.2.0","open_type":"3","publish_id":""}
+    ],
+    "discounts":[
+        
+        {"id":"430","name":"iPhone X 64G \u6df1\u7a7a\u7070","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201805\/201805101201163689.jpg","yprice":8316,"zhprice":5400,"isnew":"99\u6210\u65b0","discounts":"6.5","num":"2","desp":"","xjprice":"8316"},
+        {"id":"396","name":"\u5c0f\u7c73max2 64G \u91d1\u8272","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131617365576.jpg","yprice":1799,"zhprice":1000,"isnew":"99\u6210\u65b0","discounts":"5.6","num":"19","desp":"","xjprice":"1799"},
+        {"id":"394","name":"\u5c0f\u7c735s 3+64G \u91d1\u8272","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131604369419.jpg","yprice":1999,"zhprice":850,"isnew":"99\u6210\u65b0","discounts":"4.3","num":"20","desp":"","xjprice":"1999"},
+        {"id":"390","name":"\u9b45\u65cf PRO6s 4+64 \u9999\u69df\u91d1","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131533143762.jpg","yprice":1349,"zhprice":850,"isnew":"99\u6210\u65b0","discounts":"6.3","num":"19","desp":"","xjprice":"1349"},
+        {"id":"389","name":"\u5c0f\u7c73 5X 4+64G \u9ed1\u8272","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131531575191.jpg","yprice":1299,"zhprice":942,"isnew":"99\u6210\u65b0","discounts":"7.3","num":"16","desp":"","xjprice":"1299"},
+        {"id":"385","name":"\u534e\u4e3aP9 4+64G \u91d1\u8272","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131413591424.jpg","yprice":2479,"zhprice":942,"isnew":"99\u6210\u65b0","discounts":"3.8","num":"17","desp":"","xjprice":"2479"},
+        {"id":"379","name":"Y67 4+32 \u9999\u69df\u91d1","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131355202381.jpg","yprice":1598,"zhprice":888,"isnew":"99\u6210\u65b0","discounts":"5.6","num":"18","desp":"","xjprice":"1598"},
+        {"id":"378","name":"vivo Y66 3+32G \u73ab\u7470\u91d1","icon":"https:\/\/imgxz.3z.cc\/xz\/upload\/goods\/201803\/201803131353445657.jpg","yprice":1198,"zhprice":777,"isnew":"99\u6210\u65b0","discounts":"6.5","num":"20","desp":"","xjprice":"1198"}
+    ]
+}
